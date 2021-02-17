@@ -17,6 +17,7 @@ You can include R code in the document as follows:
 
 ```{r cars}
 summary(cars)
+head(cars)
 ```
 
 ## Including Plots
