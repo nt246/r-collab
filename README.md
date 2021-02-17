@@ -1,4 +1,6 @@
-# r-collab
+# GitHub Demo
+
 For practicing GitHub
 
-Nina is writing something here
+Nina and Nicolas are writing something here
+
