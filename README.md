@@ -1,2 +1,3 @@
-# r-collab
+# GitHub Demo
+
 For practicing GitHub
