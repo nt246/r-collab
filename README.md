@@ -1,5 +1,8 @@
 # r-collab
 
 This is a collab project.  
-This is Jaime, Hello!  
+
+This is Nina and Jaime writing
+
+
 
